@@ -1,4 +1,4 @@
-﻿schuljahr;traegerschaft;schulen;schueler_gesamt;schueler_maennlich;schueler_weiblich;lehrpersonen_gesamt;lehrpersonen_maennlich;lehrpersonen_weiblich
+schuljahr;traegerschaft;schulen;schueler_gesamt;schueler_maennlich;schueler_weiblich;lehrpersonen_gesamt;lehrpersonen_maennlich;lehrpersonen_weiblich
 1992/1993;öffentlich;661;222966;124441;98525;15338;4930;10408
 1993/1994;öffentlich;660;216454;120889;95565;14954;4687;10267
 1994/1995;öffentlich;661;217118;120315;96803;14985;4717;10268
@@ -33,7 +33,7 @@
 2023/2024;öffentlich;284;105387;55717;49670;7534;2379;5155
 2024/2025;öffentlich;286;106866;56478;50388;7329;2360;4969
 2025/2026;öffentlich;287;108596;57554;51042;7326;2424;4902
-1992/1993;frei;1;81;57;24;4;;4
+1992/1993;frei;1;81;57;24;4;0;4
 1993/1994;frei;2;565;316;249;36;13;23
 1994/1995;frei;2;181;115;66;8;3;5
 1995/1996;frei;2;233;146;87;12;3;9
